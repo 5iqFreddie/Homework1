@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{DFF540EA-8EA7-4642-9F07-49A1A472B70B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Menus", "Menus", "{EA9D5FAC-CE01-4036-9ACF-55250B0AF277}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8ACE8112-00F2-4754-A016-884A0579FD34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{DEA3520F-40F8-4AE7-B702-93A8D8513697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF540EA-8EA7-4642-9F07-49A1A472B70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF540EA-8EA7-4642-9F07-49A1A472B70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF540EA-8EA7-4642-9F07-49A1A472B70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF540EA-8EA7-4642-9F07-49A1A472B70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A3F302-65C1-4CDB-8D85-EA993F10E844}
+	EndGlobalSection
+EndGlobal
